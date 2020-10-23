@@ -1,0 +1,7 @@
+/.idea/
+/health_dao/target/
+/health_interface/target/
+/health_pojo/target/
+/health_service/target/
+/health_web/target/
+/health_common/target/
